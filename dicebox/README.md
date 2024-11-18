@@ -2,7 +2,7 @@ This is a remix of [OpenSCAD dice box by Xavier Faraudo](https://www.printables.
 
 The changes are mostly from measuring the dice and modifications suggested in the [comments of the design](https://www.printables.com/model/440186-openscad-dice-box/comments/1047670) (reproduced below).
 
-![](7dice.jpeg)
+![](7dice.jpg)
 
 
 ## Comments
